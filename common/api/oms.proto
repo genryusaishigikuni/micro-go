@@ -1,0 +1,3 @@
+syntax = "proto3";
+
+option go_package = "github.com/genryusaishigikuni/micro-go/common/api";
