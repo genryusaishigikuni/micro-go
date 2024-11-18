@@ -1,4 +1,4 @@
-module gateway
+module github.com/genryusaishigikuni/micro-go/gateway
 
 go 1.22.2
 
